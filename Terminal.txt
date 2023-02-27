@@ -1,0 +1,2 @@
+npm i express body-parser bycrpyt cors dotenv gridfs-stream multer multer-gridfs-storage h elemet morgan jsonwebtoken mongoose
+npm i -y
